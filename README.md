@@ -91,6 +91,6 @@ It demonstrates how cryptographic techniques protect data in real-world systems 
 
 ## 📁 Project Structure
 
-- 📄 [Cryptography Experiment Report](Report/Introduction_to_Cryptography.pdf)
+- 📄 [Introduction%20to%20Cryptography.pdf](Report/Introduction_to_Cryptography.pdf)
 - 📸 Screenshots
 - 📘 README.md
