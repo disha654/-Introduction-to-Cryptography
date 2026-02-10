@@ -1,4 +1,4 @@
-# 🔐 Introduction to Cryptography
+#  Introduction to Cryptography
 
 This project provides a **hands-on introduction to core cryptography concepts** using practical tools and real-world examples.  
 The goal is to understand how encryption, hashing, and digital signatures work and how they are applied in modern security systems.
