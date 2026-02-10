@@ -4,6 +4,10 @@ This project provides a **hands-on introduction to core cryptography concepts** 
 The goal is to understand how encryption, hashing, and digital signatures work and how they are applied in modern security systems.
 
 ---
+## 📄 Project Report
+
+👉 [Click here to view the Cryptography Experiment Report] (Report/Introduction_to_Cryptography.pdf)
+---
 
 ## 🎯 Objectives
 
@@ -89,3 +93,8 @@ It demonstrates how cryptographic techniques protect data in real-world systems 
 
 
 
+## 📁 Project Structure
+
+- 📄 [Cryptography Experiment Report](Report/Introduction_to_Cryptography.pdf)
+- 📸 Screenshots
+- 📘 README.md
